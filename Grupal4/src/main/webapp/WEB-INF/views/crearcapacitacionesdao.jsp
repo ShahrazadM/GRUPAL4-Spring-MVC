@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <%@ include file="inicio.jsp" %>
-    <title>Crear Capacitación DAO</title>
+    <title>Crear Capacitación implementando DAO</title>
     <style>
         .formulario-capacitacion {
             font-family: Arial, sans-serif;
