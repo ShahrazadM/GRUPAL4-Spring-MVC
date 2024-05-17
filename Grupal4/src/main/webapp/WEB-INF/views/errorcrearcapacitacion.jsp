@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>La capacitacion no pudo ser creada</title>
 </head>
 <body>
 

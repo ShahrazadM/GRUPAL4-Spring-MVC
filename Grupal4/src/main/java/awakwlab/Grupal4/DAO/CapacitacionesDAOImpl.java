@@ -27,25 +27,7 @@ import org.springframework.stereotype.Component;
 	        return capacitaciones;
 	    }
 
-		/*
-		 * @Override public boolean crearCapacitacion(Capacitaciones capacitacion) { //
-		 * Agrega la capacitación a la lista capacitaciones.add(capacitacion);
-		 */
-
-			/*
-			 * // Despliega los datos de la capacitación por consola
-			 * System.out.println("Datos de la capacitación creada:");
-			 * System.out.println("IDentificador: " + capacitacion.getIdentificador());
-			 * System.out.println("RutCliente: " + capacitacion.getRutCliente());
-			 * System.out.println("Fecha: " + capacitacion.getDia());
-			 * System.out.println("Hora: " + capacitacion.getHora());
-			 * System.out.println("Lugar: " + capacitacion.getLugar());
-			 * System.out.println("Duración: " + capacitacion.getDuracion());
-			 * System.out.println("Cantidad de asistentes: " +
-			 * capacitacion.getCantidadAsistentes());
-			 
-	        return true; // Indica que la capacitación fue creada con éxito
-	        */
+		
 	        
 	        @Override
 	        public boolean crearCapacitacion(Capacitaciones capacitacion) {
