@@ -6,5 +6,5 @@ public interface ICapacitacionDAO {
 	
 	    List<Capacitaciones> obtenerCapacitaciones();
 	    
-	    boolean crearCapacitacion(Capacitaciones capacitacion);
+	    boolean crearCapacitacion(Capacitaciones capacitaciones);
 	}

@@ -1,13 +1,11 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="es">
-<%@ include file="inicio.jsp" %>
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulario Capacitación(usandoServicio)</title>
+    <%@ include file="inicio.jsp" %>
+    <title>Crear Capacitación implementando DAO</title>
     <style>
         .formulario-capacitacion {
             font-family: Arial, sans-serif;
@@ -45,8 +43,8 @@
 </head>
 <body>
     <div class="formulario-capacitacion">
-        <h1>Crear Nueva Capacitación</h1>
-        <form action="/crearcapacitacion" method="post">
+    <h1>Crear Nueva Capacitación DAO</h1>
+        <form action="crearcapacitacionesdao" method="post">
             <label for="identificador">Identificador:</label>
             <input type="text" id="identificador" name="identificador"><br>
         
@@ -68,8 +66,8 @@
             <label for="cantidadAsistentes">Cantidad de Asistentes:</label>
             <input type="text" id="cantidadAsistentes" name="cantidadAsistentes"><br>
         
-            <input type="submit" value="Crear Capacitación">
+            <input type="submit" value="Crear Capacitación DAO">
         </form>
-    </div>
+        </div>
 </body>
 </html>

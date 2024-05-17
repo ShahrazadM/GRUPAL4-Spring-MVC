@@ -87,8 +87,12 @@ public class Capacitaciones {
 		this.cantidadAsistentes = cantidadAsistentes;
 	}
 
-	public boolean add(Capacitaciones capacitaciones) {
+	public void add(Capacitaciones capacitaciones) {
 		// TODO Auto-generated method stub
-		return false;
+		
 	}
+
+	
+
+	
 }
