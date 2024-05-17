@@ -16,7 +16,5 @@
     <p>Con profesionales altamente calificados y tecnología de vanguardia, ofrecemos soluciones innovadoras y efectivas para identificar, evaluar y mitigar los riesgos en diversos entornos y sectores.</p>
     <p>Además de cuidar de nuestros clientes, estamos comprometidos con el bienestar de la sociedad en su conjunto. Participamos activamente en iniciativas comunitarias, programas de educación y concientización sobre seguridad, y colaboramos con organizaciones sin fines de lucro para promover un entorno más seguro y sostenible.</p>
     <p>En nuestra empresa, la seguridad es nuestra prioridad número uno, y trabajamos incansablemente para mantenerla xD.</p>
-	<p>Nuestro personal altamente capacitado: Business Developer: Ruben Riquelme, Analista de Sistemas:Nayareth Sepulveda, Ciberseguridad:Frasiel Camp y key Acount Manager:Scherezade Huancapaza.</p>
-    <p>Con execelentes recomendaciones</p>
 </body>
 </html>
